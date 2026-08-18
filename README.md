@@ -350,36 +350,6 @@ https://github.com/rahuldiga9380
 
 ---
 
-# 🚚 SupplyPrescript — AI-Powered Supply Chain Optimization
-
-### Tech Stack
-
-`React` `Data Analytics` `Predictive Analytics` `Prescriptive Analytics`
-
-### Overview
-
-SupplyPrescript is an AI-powered predictive and prescriptive supply chain optimization project focused on improving operational decision-making.
-
-### Key Areas
-
-- Shipment monitoring
-- Delay prediction
-- Supplier performance
-- Recommendation analysis
-- Operational KPIs
-- Decision-support dashboards
-
-### My Contribution
-
-- Dashboard development
-- Frontend implementation
-- Data visualization
-- UI development
-- Project documentation
-
-🔗 **Project:**  
-https://github.com/rahuldiga9380
-
 ---
 
 # 🏗️ Microsoft Fabric Portfolio
