@@ -1,380 +1,244 @@
+
+<!--
+Rahul Idiga — GitHub Profile README
+Repository: Rahuldiga9380/Rahuldiga9380
+-->
+
 <h1 align="center">Hi 👋, I'm Rahul Idiga</h1>
 
 <h3 align="center">
-Data Analyst | BI & Microsoft Fabric | Python & SQL | Data Engineering
+  Aspiring Data Engineer | Azure Cloud Developer | Data Analytics
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahuldiga9380&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  Building data pipelines, reliable data models, and analytics solutions.
 </p>
 
 <p align="center">
+  <a href="https://github.com/Rahuldiga9380">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://www.linkedin.com/in/rahul-idiga-46941a316">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/rahuldiga9380">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github" />
+  <a href="https://leetcode.com/u/Rahulidiga/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://leetcode.com/u/rahulidiga/">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode" />
+  <a href="mailto:rahulidiga9380@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.kaggle.com/rahulidiga">
-    <img src="https://img.shields.io/badge/Kaggle-Data%20Projects-blue?style=for-the-badge&logo=kaggle" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rahuldiga9380&label=Profile%20Views&color=0078D4&style=flat-square" alt="Profile views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 **B.Tech Computer Science Engineering (AI & Data Engineering)** student at **Jain University, Bangalore**, with a CGPA of **8.67/10**.
+I'm a B.Tech Computer Science Engineering student specializing in
+AI & Data Engineering at Jain University, Bengaluru.
 
-📊 Passionate about transforming raw data into **actionable business insights** using SQL, Python, Power BI, and Microsoft Fabric.
+- 🎯 **Career focus:** Data Engineering and cloud-based data solutions.
+- ☁️ **Currently learning:** Azure Cloud Development and cloud data services.
+- 🏅 **Certified:** Microsoft Fabric Analytics Engineer Associate (DP-600).
+- 💼 **Experience:** Completed a Data Analyst internship at TITUS Solutions.
+- 🏗️ **Team project:** Contributing to MetricMind, an Agentic Semantic BI Engine at Axlero Solutions.
+- 🔍 **Interests:** ETL/ELT, data quality, SQL optimization, data modeling, and analytics engineering.
+- 🤖 **Exploring:** RAG, LLMs, and Agentic AI for data applications.
+- 📚 **Currently improving:** Python, SQL, data structures, and problem-solving.
 
-⚙️ Interested in **Data Analytics, Business Intelligence, Data Engineering, ETL pipelines, and cloud data platforms**.
+**My engineering approach**
 
-🚀 I enjoy building end-to-end projects that follow the complete data journey:
-
-**Raw Data → Cleaning → Transformation → Analysis → Visualization → Business Insights**
-
-💡 Currently strengthening my expertise in **Advanced SQL, Python, Microsoft Fabric, PySpark, Power BI, DAX, Data Engineering, and DSA**.
-
-🎯 Looking for opportunities in **Data Analytics, Business Intelligence, Data Engineering, and entry-level data roles**.
-
----
-
-# 🏆 Microsoft Certified
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MICROSOFT%20CERTIFIED-Fabric%20Analytics%20Engineer%20Associate-0078D4?style=for-the-badge&logo=microsoft" />
-</p>
-
-<h3 align="center">
-Microsoft Certified: Fabric Analytics Engineer Associate
-</h3>
-
-<p align="center">
-
-<strong>Certification:</strong> DP-600  
-<br>
-<strong>Earned:</strong> August 15, 2026  
-<br>
-<strong>Valid Until:</strong> August 16, 2027
-
-</p>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/en-us/users/rahulidiga-8098/credentials/16bf690b952e7583">
-    <img src="https://img.shields.io/badge/View%20Microsoft%20Credential-0078D4?style=for-the-badge&logo=microsoft" />
-  </a>
-</p>
-
-### Microsoft Fabric Skills
-
-`Microsoft Fabric` `OneLake` `Lakehouse` `Data Factory`
-
-`Dataflow Gen2` `Semantic Models` `Power BI` `DAX`
-
-`SQL` `Data Transformation` `Data Modeling`
+`Ingest → Transform → Validate → Model → Analyze`
 
 ---
 
-# 🧠 Technical Skills
+## 🛠️ Technical Skills
 
-## 💻 Programming Languages
+### Programming & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-`Python` `SQL` `Java` `JavaScript`
-
----
-
-## 📊 Data Analytics
-
-`Data Cleaning`
-
-`Data Transformation`
-
-`Exploratory Data Analysis (EDA)`
-
-`Data Validation`
-
-`KPI Analysis`
-
-`Statistical Analysis`
-
-`Data Processing`
-
-`Business Analysis`
-
----
-
-## 📈 Business Intelligence & Visualization
-
-`Power BI`
-
-`DAX`
-
-`Excel`
-
-`Dashboard Development`
-
-`KPI Reporting`
-
-`Data Visualization`
-
-`Interactive Dashboards`
-
----
-
-## ⚙️ Data Engineering
-
-`ETL / ELT`
-
-`Data Pipelines`
-
-`PySpark`
-
-`Databricks`
-
-`Microsoft Fabric`
-
-`OneLake`
-
-`Lakehouse`
-
-`Data Factory`
-
-`Dataflow Gen2`
-
-`Semantic Models`
-
----
-
-## 🗄️ SQL & Databases
-
-`MySQL`
-
-`Joins`
-
-`Aggregations`
-
-`Subqueries`
-
-`CTEs`
-
-`Filtering`
-
-`Window Functions`
-
-`Data Modeling`
-
-`SQL Analytics`
-
----
-
-## 🐍 Python Data Stack
-
-`Pandas`
-
-`NumPy`
-
-`Matplotlib`
-
-`Seaborn`
-
-`PySpark`
-
----
-
-## 🌐 Web & API Development
-
-`HTML5`
-
-`CSS3`
-
-`JavaScript`
-
-`React.js`
-
-`REST APIs`
-
-`Postman`
-
-`Responsive Web Design`
-
----
-
-## 🧩 Computer Science
-
-`Data Structures & Algorithms`
-
-`Object-Oriented Programming`
-
-`Database Management Systems`
-
-`Operating Systems`
-
-`Computer Networks`
-
-`Problem Solving`
-
----
-
-## 🛠️ Tools & Platforms
+### Data Engineering & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Currently%20Learning-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure currently learning"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat-square&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Cube.dev-Semantic%20Layer-5A67D8?style=flat-square" alt="Cube.dev"/>
+  <img src="https://img.shields.io/badge/ETL%2FELT-Data%20Pipelines-2563EB?style=flat-square" alt="ETL ELT"/>
 </p>
 
-`Git`
+**Core concepts:** Data cleaning, data transformation, data validation,
+staging/intermediate/mart models, semantic metrics, data quality, and KPI definitions.
 
-`GitHub`
+### Analytics & Business Intelligence
 
-`VS Code`
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+</p>
 
-`Jupyter Notebook`
+**Core concepts:** EDA, statistical analysis, DAX, KPI reporting, dashboard development,
+SQL joins, aggregations, subqueries, and window functions.
 
-`Power BI`
+### Developer Tools
 
-`Databricks`
-
-`Postman`
-
-`Excel`
-
----
-
-# 💼 Experience
-
-## Data Analyst Intern — TITUS Solutions
-
-**May 2026 – August 2026 | Bangalore, India**
-
-Worked in an EdTech/SaaS environment with a focus on data analytics and school operations.
-
-### Key Contributions
-
-- Analyzed student attendance and operational data to generate data-driven insights.
-- Performed data preparation and transformation for reporting.
-- Built dashboards and visualizations for attendance-related metrics.
-- Developed KPI-focused reporting to improve visibility into operational performance.
-- Collaborated with team members to document and present analytical findings.
-- Supported stakeholder decision-making through data-driven reporting.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</p>
 
 ---
 
-# 📂 Featured Projects
+## 🏅 Certifications
 
-## 📊 End-to-End Retail Customer Behavior Analysis
-
-### Tech Stack
-
-`Python` `MySQL` `Power BI`
-
-### Overview
-
-Built an end-to-end analytics pipeline covering:
-
-**Data Ingestion → Data Cleaning → Transformation → EDA → SQL Analysis → Power BI Dashboard**
-
-### Key Work
-
-- Cleaned and transformed retail datasets using Python.
-- Performed exploratory data analysis.
-- Used SQL joins, aggregations, filtering, and analytical queries.
-- Identified revenue trends and customer segments.
-- Developed interactive Power BI dashboards.
-- Created KPI tracking for sales and customer retention.
-- Generated actionable business insights.
-
-🔗 **Project:**  
-https://github.com/rahuldiga9380
+- **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** — Microsoft, 2026.
+- Oracle Cloud Infrastructure 2025 AI Foundations Associate — Oracle, 2025.
+- Postman API Fundamentals — Student Expert.
+- Databricks Fundamentals — Databricks.
 
 ---
 
-# 🛒 Walmart Sales Data Analysis
+## 💼 Experience
 
-### Tech Stack
+### Data & Semantic Engineering Project Contributor
+**Axlero Solutions — MetricMind | 2026**
 
-`Python` `Pandas` `NumPy` `MySQL`
+*Team project · Snowflake · dbt · Cube.dev · SQL · Python*
 
-### Overview
+- Validated **51K+ retail records** and defined consistent business metrics, including distinct orders and aggregate profit margin.
+- Developed dbt staging, intermediate, and mart models in Snowflake; the reported build passed **24 checks/tests**.
+- Validated Cube.dev API queries to support consistent, governed business reporting.
+- Contributed to data preparation, transformation, validation, and semantic metric development.
 
-Performed comprehensive sales analysis on retail data to identify important business trends.
+🔗 **[Explore the MetricMind repository](https://github.com/muskaanyadav02/MetricMind)**
 
-### Key Work
+### Data Analyst Intern
+**TITUS Solutions | May 2026 – August 2026 | Bengaluru**
 
-- Cleaned and transformed datasets using Python.
-- Used Pandas and NumPy for data processing.
-- Performed exploratory data analysis.
-- Used SQL aggregations to analyze sales performance.
-- Identified top-performing products.
-- Analyzed seasonal demand.
-- Identified major revenue drivers.
-- Generated actionable recommendations for inventory strategy.
-
-🔗 **Project:**  
-https://github.com/rahuldiga9380
+- Analyzed attendance and operational data for 500+ students in an EdTech/SaaS environment.
+- Automated data preparation and transformation workflows, with a reported 30% reduction in manual reporting time.
+- Developed Power BI dashboards to track attendance KPIs and improve operational visibility.
+- Collaborated with team members to communicate analytical findings to stakeholders.
 
 ---
 
-# 📈 Blinkit Business Intelligence Dashboard
+## 🚀 Featured Projects
 
-### Tech Stack
+### 1. MetricMind — Agentic Semantic BI Engine
 
-`Power BI` `Data Analytics` `Business Intelligence`
+**Technologies:** Snowflake, dbt, Cube.dev, SQL, Python
 
-### Overview
+A team project focused on governed business intelligence, centralized semantic metrics,
+and consistent business reporting.
 
-Designed an interactive Power BI dashboard focused on business and operational performance.
+- Data validation across 51K+ retail records.
+- Transformation and modeling using dbt and Snowflake.
+- Semantic metric validation through Cube.dev APIs.
 
-### Key Features
+🔗 [GitHub Repository](https://github.com/muskaanyadav02/MetricMind)
 
-- Sales performance analysis
-- Inventory tracking
-- Customer satisfaction analysis
-- Demand trend analysis
-- KPI monitoring
-- Drill-down filters
-- Interactive business reporting
+### 2. End-to-End Retail Customer Behavior Analysis
 
-### Business Value
+**Technologies:** Python, Pandas, MySQL, Power BI
 
-The dashboard provides better visibility into sales, inventory, customer satisfaction, and operational performance to support data-driven decision-making.
+- Built an analytics workflow covering ingestion, cleaning, transformation, and exploratory analysis.
+- Used SQL joins, aggregations, and subqueries to analyze sales and customer segments.
+- Developed interactive dashboards for business KPIs.
 
-🔗 **Project:**  
-https://github.com/rahuldiga9380
+🔗 [View Customer Behavior Analysis](https://github.com/Rahuldiga9380/customer_behaviour_analysis)
+
+### 3. Walmart Sales Data Analysis
+
+**Technologies:** Python, Pandas, NumPy, MySQL
+
+- Cleaned and transformed retail sales data.
+- Performed exploratory analysis and SQL aggregations.
+- Investigated product performance and seasonal demand patterns.
+
+🔗 [Browse my repositories](https://github.com/Rahuldiga9380?tab=repositories)
+
+### 4. Blinkit Business Intelligence Dashboard
+
+**Technologies:** Power BI
+
+- Designed an interactive dashboard with 15+ KPIs across sales, inventory, and customer satisfaction.
+- Analyzed demand trends and inventory gaps to support operational decision-making.
+
+🔗 [Explore my GitHub projects](https://github.com/Rahuldiga9380?tab=repositories)
 
 ---
 
+## 🎓 Education
+
+**B.Tech — Computer Science Engineering (AI & Data Engineering)**  
+Jain University, Bengaluru | CGPA: 8.67/10 | Expected graduation: 2028
+
+Relevant coursework: Data Structures & Algorithms, DBMS, Statistics & Probability,
+Machine Learning, and Data Warehousing.
+
+**Class XII — CBSE**  
+D.A.V. Public School | 2022–2024
+
 ---
 
-# 🏗️ Microsoft Fabric Portfolio
+## 📊 GitHub Analytics
 
-Since I am Microsoft Certified in **Fabric Analytics Engineering (DP-600)**, I am building practical projects around Microsoft Fabric.
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahuldiga9380&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahuldiga9380&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
 
-### Areas of Focus
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Rahuldiga9380&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-```text
-Microsoft Fabric
-      ↓
-OneLake
-      ↓
-Lakehouse
-      ↓
-Data Ingestion
-      ↓
-Data Transformation
-      ↓
-Data Factory / Dataflow Gen2
-      ↓
-SQL Analytics
-      ↓
-Semantic Models
-      ↓
-Power BI
-      ↓
-Business Insights
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahuldiga9380&theme=tokyo-night&hide_border=true" alt="GitHub activity graph"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahuldiga9380/Rahuldiga9380/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahuldiga9380/Rahuldiga9380/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Rahuldiga9380/Rahuldiga9380/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Rahuldiga9380">GitHub</a> •
+  <a href="https://www.linkedin.com/in/rahul-idiga-46941a316">LinkedIn</a> •
+  <a href="https://leetcode.com/u/Rahulidiga/">LeetCode</a> •
+  <a href="mailto:rahulidiga9380@gmail.com">Email Me</a>
+</p>
+
+<p align="center">
+  <i>Learning continuously. Building consistently. Growing as a Data Engineer.</i>
+</p>
