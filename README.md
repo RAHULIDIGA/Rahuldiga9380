@@ -1,7 +1,7 @@
 
 <!--
 Rahul Idiga — GitHub Profile README
-Repository: Rahuldiga9380/Rahuldiga9380
+Repository: RAHULIDIGA
 -->
 
 <h1 align="center">Hi 👋, I'm Rahul Idiga</h1>
